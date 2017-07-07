@@ -5,7 +5,7 @@ public class main {
 	public static void main(String[] args) {
 
 
-		TriggerClass d = new TriggerClass();
+		TriggerClasss d = new TriggerClasss();
 		d.llamadaJob();
 		
 	}
