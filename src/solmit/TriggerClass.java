@@ -6,7 +6,7 @@ import org.quartz.SchedulerException;
 import org.quartz.Trigger;
 import org.quartz.impl.StdSchedulerFactory;
 
-public class TriggerClasss {
+public class TriggerClass {
 
     public void llamadaJob() {
         try {
